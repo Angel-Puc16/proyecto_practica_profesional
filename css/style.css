@@ -1,0 +1,51 @@
+body{
+    width: 960px;
+    background: url(fondo1.jpg);
+    background-size: 100%;
+    padding: 30px;
+    margin: 20px auto;
+   }
+h1{font-size: 50px;}
+
+h1{
+    text-align: left;
+
+}
+nav{font-size: 35px;}
+footer{color: white; background-color: black; font-size: 20px;
+text-align: center;}
+section{
+    border: 2px solid azure;
+}
+section{
+    text-align: justify;
+}
+nav{
+    text-align: left;
+}
+.grupo1{
+    margin: 30px auto;
+}
+.menu li{
+    border: 2px solid azure;
+    list-style: none;
+    font: bold;
+    display: inline-block;
+}
+.seccion{
+    margin: 20px;
+    width: 600px;
+    float: left;
+}
+aside{
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.lateral{
+    width: 200px;
+    float: left;
+}
+
+.pie{
+    clear: both;
+}
